@@ -1,0 +1,142 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{chakole2023tutorial}
+J.~Chakole, M.~Kurhekar, Tutorial on automated trading using api, in:
+  Proceedings of the 6th Joint International Conference on Data Science \&
+  Management of Data (10th ACM IKDD CODS and 28th COMAD), 2023, pp. 305--307.
+
+\bibitem{chakole2021convolutional}
+J.~Chakole, M.~P. Kurhekar, Convolutional neural network-based a novel deep
+  trend following strategy for stock market trading., in: CIKM Workshops, 2021.
+
+\bibitem{watkins2004econometric}
+C.~Watkins, M.~McAleer, Econometric modelling of non-ferrous metal prices,
+  Journal of Economic Surveys 18~(5) (2004) 651--701.
+
+\bibitem{kriechbaumer2014improved}
+T.~Kriechbaumer, A.~Angus, D.~Parsons, M.~R. Casado, An improved wavelet--arima
+  approach for forecasting metal prices, Resources Policy 39 (2014) 32--41.
+
+\bibitem{kristjanpoller2017volatility}
+W.~Kristjanpoller, E.~Hern{\'a}ndez, Volatility of main metals forecasted by a
+  hybrid ann-garch model with regressors, Expert Systems with Applications 84
+  (2017) 290--300.
+
+\bibitem{hajek2022fuzzy}
+P.~Hajek, J.~Novotny, Fuzzy rule-based prediction of gold prices using news
+  affect, Expert Systems with Applications 193 (2022) 116487.
+
+\bibitem{guha2016gold}
+B.~Guha, G.~Bandyopadhyay, Gold price forecasting using arima model, Journal of
+  Advanced Management Science 4~(2) (2016).
+
+\bibitem{he2023novel}
+Z.~He, J.~Huang, A novel non-ferrous metal price hybrid forecasting model based
+  on data preprocessing and error correction, Resources Policy 86 (2023)
+  104189.
+
+\bibitem{zhou2019precious}
+J.~Zhou, Z.~He, Y.~N. Song, H.~Wang, X.~Yang, W.~Lian, H.-N. Dai, Precious
+  metal price prediction based on deep regularization self-attention
+  regression, IEEE Access 8 (2019) 2178--2187.
+
+\bibitem{liu2020non}
+Y.~Liu, C.~Yang, K.~Huang, W.~Gui, Non-ferrous metals price forecasting based
+  on variational mode decomposition and lstm network, Knowledge-Based Systems
+  188 (2020) 105006.
+
+\bibitem{astudillo2020copper}
+G.~Astudillo, R.~Carrasco, C.~Fern{\'a}ndez-Campusano, M.~Chac{\'o}n, Copper
+  price prediction using support vector regression technique, applied sciences
+  10~(19) (2020) 6648.
+
+\bibitem{li2023novel}
+Z.~Li, Y.~Yang, Y.~Chen, J.~Huang, A novel non-ferrous metals price forecast
+  model based on lstm and multivariate mode decomposition, Axioms 12~(7) (2023)
+  670.
+
+\bibitem{mendez2019artificial}
+M.~M{\'e}ndez-Su{\'a}rez, F.~Garc{\'\i}a-Fern{\'a}ndez, F.~Gallardo, Artificial
+  intelligence modelling framework for financial automated advising in the
+  copper market, Journal of Open Innovation: Technology, Market, and Complexity
+  5~(4) (2019) 81.
+
+\bibitem{shao2019nickel}
+B.~Shao, M.~Li, Y.~Zhao, G.~Bian, Nickel price forecast based on the lstm
+  neural network optimized by the improved pso algorithm, Mathematical Problems
+  in Engineering 2019 (2019).
+
+\bibitem{gu2021forecasting}
+Q.~Gu, Y.~Chang, N.~Xiong, L.~Chen, Forecasting nickel futures price based on
+  the empirical wavelet transform and gradient boosting decision trees, Applied
+  Soft Computing 109 (2021) 107472.
+
+\bibitem{zhao2022risk}
+C.~Zhao, Y.~Wang, Y.~Cen, L.~Wu, J.~Zhou, Risk control of metal raw materials
+  based on deep learning, Measurement and Control 55~(9-10) (2022) 1016--1030.
+
+\bibitem{dosovitskiy2020image}
+A.~Dosovitskiy, L.~Beyer, A.~Kolesnikov, D.~Weissenborn, X.~Zhai,
+  T.~Unterthiner, M.~Dehghani, M.~Minderer, G.~Heigold, S.~Gelly, et~al., An
+  image is worth 16x16 words: Transformers for image recognition at scale,
+  arXiv preprint arXiv:2010.11929 (2020).
+
+\bibitem{carion2020end}
+N.~Carion, F.~Massa, G.~Synnaeve, N.~Usunier, A.~Kirillov, S.~Zagoruyko,
+  End-to-end object detection with transformers, in: European conference on
+  computer vision, Springer, 2020, pp. 213--229.
+
+\bibitem{dong2018speech}
+L.~Dong, S.~Xu, B.~Xu, Speech-transformer: a no-recurrence sequence-to-sequence
+  model for speech recognition, in: 2018 IEEE international conference on
+  acoustics, speech and signal processing (ICASSP), IEEE, 2018, pp. 5884--5888.
+
+\bibitem{payne2019musenet}
+D.~C. Payne, J.~W. Kim, Y.~C. Chen, Musenet: A deep neural network for music
+  generation, arXiv preprint arXiv:1909.09575 (2019).
+
+\bibitem{valanarasu2021medical}
+J.~M.~J. Valanarasu, P.~Oza, I.~Hacihaliloglu, V.~M. Patel, Medical
+  transformer: Gated axial-attention for medical image segmentation, in:
+  Medical Image Computing and Computer Assisted Intervention--MICCAI 2021: 24th
+  International Conference, Strasbourg, France, September 27--October 1, 2021,
+  Proceedings, Part I 24, Springer, 2021, pp. 36--46.
+
+\bibitem{rumelhart1986learning}
+D.~E. Rumelhart, G.~E. Hinton, R.~J. Williams, Learning representations by
+  back-propagating errors, nature 323~(6088) (1986) 533--536.
+
+\bibitem{bengio1994learning}
+Y.~Bengio, P.~Simard, P.~Frasconi, Learning long-term dependencies with
+  gradient descent is difficult, IEEE transactions on neural networks 5~(2)
+  (1994) 157--166.
+
+\bibitem{hochreiter1997long}
+S.~Hochreiter, J.~Schmidhuber, Long short-term memory, Neural computation 9~(8)
+  (1997) 1735--1780.
+
+\bibitem{cho2014learning}
+K.~Cho, B.~Van~Merri{\"e}nboer, C.~Gulcehre, D.~Bahdanau, F.~Bougares,
+  H.~Schwenk, Y.~Bengio, Learning phrase representations using rnn
+  encoder-decoder for statistical machine translation, arXiv preprint
+  arXiv:1406.1078 (2014).
+
+\bibitem{vaswani2017attention}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez,
+  {\L}.~Kaiser, I.~Polosukhin, Attention is all you need, Advances in neural
+  information processing systems 30 (2017).
+
+\bibitem{bahdanau2014neural}
+D.~Bahdanau, K.~Cho, Y.~Bengio, Neural machine translation by jointly learning
+  to align and translate, arXiv preprint arXiv:1409.0473 (2014).
+
+\bibitem{sutskever2014sequence}
+I.~Sutskever, O.~Vinyals, Q.~V. Le, Sequence to sequence learning with neural
+  networks, Advances in neural information processing systems 27 (2014).
+
+\end{thebibliography}
